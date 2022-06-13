@@ -5,4 +5,4 @@
   <li>It has different keys in the keyboard representing a certain musical instrument</li>
   <li>When any of the key is clicked or pressed corresponding drum sound effect and visual feedback is given.</li>
 </ul>  
-<a href="https://premforreal.github.io/Drumkit-web-app/">Drumkit-web-app</a>
+<a href="https://premforreal.github.io/Drumkit-web-app/">visit</a>
