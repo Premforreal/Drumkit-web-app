@@ -1,6 +1,4 @@
-<h2>Drumkit-web-app</h2>
-<a href="https://premforreal.github.io/Drumkit-web-app/">visit</a>
-
+<h2><a href="https://premforreal.github.io/Drumkit-web-app/">Drumkit-web-app</a></h2>
 <ul>
   <li>A front-end web app made using Javascript, Html and Css.</li>
   <li>It has different keys in the keyboard representing a certain musical instrument</li>
