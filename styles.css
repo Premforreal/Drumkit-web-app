@@ -1,3 +1,6 @@
+
+
+
 body {
   text-align: center;
   background-color: #283149;
@@ -18,37 +21,37 @@ footer {
 
 .w {
      background-image: url(images/tom1.png);
-     cursor: pointer;
+     cursor: url('/cursor.cur'), auto;
 }
 
 .a {
   background-image: url(images/tom2.png);
-  cursor: pointer;
+  cursor: url('/cursor.cur'), auto;
 }
 
 .s {
   background-image: url(images/tom3.png);
-  cursor: pointer;
+  cursor: url('/cursor.cur'), auto;
 }
 
 .d {
   background-image: url(images/tom4.png);
-  cursor: pointer;
+  cursor: url('/cursor.cur'), auto;
 }
 
 .j {
   background-image: url(images/snare.png);
-  cursor: pointer;
+  cursor: url('/cursor.cur'), auto;
 }
 
 .k {
   background-image: url(images/crash.png);
-  cursor: pointer;
+  cursor: url('/cursor.cur'), auto;
 }
 
 .l {
   background-image: url(images/kick.png);
-  cursor: pointer;
+  cursor: url('/cursor.cur'), auto;
 }
 
 .set {
